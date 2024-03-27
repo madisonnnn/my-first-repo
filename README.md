@@ -4,4 +4,4 @@
 
 or
 
-![omg](my-first-repo/star.jpeg)
+![omg](star.jpeg)
